@@ -1,0 +1,461 @@
+{
+  "edition": "Vector revision 02",
+  "status": "Current brand assets and usage guidelines",
+  "assets": [
+    {
+      "file": "assets/applications/britannia-applications-finish-carpentry.png",
+      "bytes": 4096198,
+      "sha256": "f87e825bf5c9c2e1616ca0fd513ca559efd9afa8de6a7508d49d03c5ed69340c"
+    },
+    {
+      "file": "assets/applications/britannia-architecture-approved-reference.jpg",
+      "bytes": 33340,
+      "sha256": "b0f43495fd8a9e8a3bece8e27fbf3cb9927408512b930095587da221d338d651"
+    },
+    {
+      "file": "assets/applications/britannia-letterhead.html",
+      "bytes": 799,
+      "sha256": "f550741a786a6570ca57d2da1ec4ff85182c70e6eff4e0ba7656077438c295c5"
+    },
+    {
+      "file": "assets/applications/britannia-signage-approved-reference.jpg",
+      "bytes": 118059,
+      "sha256": "40f54d19f1e73708cc4091fddc0cc82bd4eda3781793918bccc1f9dc48e84b4e"
+    },
+    {
+      "file": "assets/applications/britannia-signage-mockup.jpg",
+      "bytes": 710427,
+      "sha256": "70b0f7980dbbcae67b6200983edd921265f798ae8b97bbb12e8d7feddf1ab4cc"
+    },
+    {
+      "file": "assets/applications/britannia-truck-approved-reference.jpg",
+      "bytes": 153965,
+      "sha256": "6e06a7476c1e46e18c42252c55262805e86a4ce7639302a87843e6b0f3e0169c"
+    },
+    {
+      "file": "assets/applications/britannia-truck-mockup.jpg",
+      "bytes": 358668,
+      "sha256": "c58619d95b63a79f0a85fd639140d1eeb61005c0baa71980a168bcc9aa565f4c"
+    },
+    {
+      "file": "assets/applications/britannia-wax-seal-approved-reference.jpg",
+      "bytes": 92353,
+      "sha256": "9d12e40fc71e86774cd4253c83b8a052d5e0644acb7dbf400d455079438e72ba"
+    },
+    {
+      "file": "assets/applications/britannia-wax-seal-mockup.jpg",
+      "bytes": 172547,
+      "sha256": "1e9290154051dbbd8fe901d4473c6e74a67e8af88b192bfa1d2800eddd9231eb"
+    },
+    {
+      "file": "assets/boards/README.md",
+      "bytes": 3294,
+      "sha256": "50b3cc17e87f642e426bd9b85d789b6421428d34aad7d57a7a952b80e4fb3012"
+    },
+    {
+      "file": "assets/boards/britannia-material-world.png",
+      "bytes": 4720320,
+      "sha256": "d7e5a92a8fdd1e1ea5e528e06b9e7395150c4dab01a765f8021505e0b795518a"
+    },
+    {
+      "file": "assets/boards/britannia-material-world.svg",
+      "bytes": 11050595,
+      "sha256": "ad327a96e56f9a2de514c6a51f6565b9058e6604f0ce34fba72209b32853d047"
+    },
+    {
+      "file": "assets/boards/mockup-refinement-notes.md",
+      "bytes": 1498,
+      "sha256": "39eccbb0288f2a7ee6ecd3048ab6e7f772dacf4298dc2bbeaedb38a4c43304b7"
+    },
+    {
+      "file": "assets/boards/plaque-edit-prompts.md",
+      "bytes": 2399,
+      "sha256": "40254a6bb91bb0fa37d0e3c6180f860d939e40ff5c1b2154c48bffde28b74d09"
+    },
+    {
+      "file": "assets/fonts/LibreCaslonDisplay-OFL.txt",
+      "bytes": 4403,
+      "sha256": "9cc8cef15f5e8bcbe99a13ee8d268f6f6f6a5811cd1ed05056ef4608c9b16fd1"
+    },
+    {
+      "file": "assets/fonts/LibreCaslonDisplay-Regular.ttf",
+      "bytes": 101384,
+      "sha256": "2340c497181e9446fcbb235e1c3780558dc62879ffe0ef47906d3f7f35cf5f35"
+    },
+    {
+      "file": "assets/fonts/LibreCaslonText-Bold.ttf",
+      "bytes": 79152,
+      "sha256": "f7b5165f3cd1a8d255e46c4afe84cfb14b0a5e918f395867ceb802d5482cc748"
+    },
+    {
+      "file": "assets/fonts/LibreCaslonText-OFL.txt",
+      "bytes": 4404,
+      "sha256": "a294245c822c5aa9fd9a9f3189418e99415428be5fecadf797793d5d8f6a3ad3"
+    },
+    {
+      "file": "assets/fonts/LibreCaslonText-Regular.ttf",
+      "bytes": 79120,
+      "sha256": "c9a8a2c87c46e36e6d44e83934fcb429dcd8594ce4fd3ecfc9badc13a9043574"
+    },
+    {
+      "file": "assets/fonts/LibreCaslonText-Semibold.ttf",
+      "bytes": 79180,
+      "sha256": "baa93b7a0c19e3fd658eab6f539b21cbfe3a71f606a2a6938ba01e306409a8b4"
+    },
+    {
+      "file": "assets/fonts/LibreCaslonText[wght].ttf",
+      "bytes": 126876,
+      "sha256": "c11809dbfd5445886293d89b32bfc2584075c80e77750cf1c284113e36b8b3f4"
+    },
+    {
+      "file": "assets/fonts/Montserrat-OFL.txt",
+      "bytes": 4400,
+      "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e"
+    },
+    {
+      "file": "assets/fonts/Montserrat.ttf",
+      "bytes": 744936,
+      "sha256": "0f7b311b2f3279e4eef9b2f968bcdbab6e28f4daeb1f049f4f278a902bcd82f7"
+    },
+    {
+      "file": "assets/guidelines/britannia-brand-guidelines.html",
+      "bytes": 9085,
+      "sha256": "4960bf135ff705281a8c330164a4091de144553562f3b810e81648e9a2c53e05"
+    },
+    {
+      "file": "assets/guidelines/britannia-brand-guidelines.md",
+      "bytes": 7785,
+      "sha256": "4a40911702ee05a542ffd64cf5bd0f3fd4ed8e4e0fd2dd5e937e772594461259"
+    },
+    {
+      "file": "assets/icons/britannia-crown.svg",
+      "bytes": 8462,
+      "sha256": "015bca4b0f44e0a30cf672a979f67ae3500cf025f6b6710c688c437e76346e4d"
+    },
+    {
+      "file": "assets/icons/britannia-fleur-de-lis.svg",
+      "bytes": 2884,
+      "sha256": "0406b9221c00e7dbc7e51e1522ed18d6bdac7c46cfc2e7e82f4b9fb61eb7e353"
+    },
+    {
+      "file": "assets/icons/britannia-hammers.svg",
+      "bytes": 18962,
+      "sha256": "0da6e6faeb6c8e135bed13b3baf5da1a5fafa73a5425325c0cfe99e6bb3a5f07"
+    },
+    {
+      "file": "assets/icons/britannia-tower.svg",
+      "bytes": 199018,
+      "sha256": "6d59a27d48af1b592ca28809b96a3fb5f3cb6c1ed1040afa15dcdf4afee03437"
+    },
+    {
+      "file": "assets/icons/britannia-tree.svg",
+      "bytes": 28256,
+      "sha256": "e287ff996620cdb78e7314c2721ca6c26742f0c3034e66de032ccee4dc2da519"
+    },
+    {
+      "file": "assets/logos/britannia-crest-charcoal.svg",
+      "bytes": 186199,
+      "sha256": "136b72c6ef2e1cd5c5ad82fb7d23811a87a4fd8174aebb09439537553c41a3ab"
+    },
+    {
+      "file": "assets/logos/britannia-crest-full-color.svg",
+      "bytes": 372046,
+      "sha256": "6952bcbc7cb3ef2ca41362797df44daa370f5ed7f822c849256bc71d96b22f13"
+    },
+    {
+      "file": "assets/logos/britannia-crest-gold.svg",
+      "bytes": 186191,
+      "sha256": "10c5c9a0d29bf781de104f4a77a04fa0b4dcf74344edbb0d7f7dd9a7d9eedad4"
+    },
+    {
+      "file": "assets/logos/britannia-crest-green.svg",
+      "bytes": 186193,
+      "sha256": "3be0280da99b9bf7d672569ea5916b5398ae5f62b0f99beb0c85ffe658ed592b"
+    },
+    {
+      "file": "assets/logos/britannia-crest-ivory-ground.svg",
+      "bytes": 186044,
+      "sha256": "e98656271bb3598ed03d7c485033c0081de80b66055031576fe172f76da32a06"
+    },
+    {
+      "file": "assets/logos/britannia-crest-ivory.svg",
+      "bytes": 186193,
+      "sha256": "64252dc14c0c5a6ff75eb005b538571ffdd3e2a42794b2a1974b2ed01e353251"
+    },
+    {
+      "file": "assets/logos/britannia-horizontal-editable-text.svg",
+      "bytes": 295274,
+      "sha256": "a58bb9f9ba931050a48903ffc9aba171f592e4e990d2d23fae5bc7839ca40e89"
+    },
+    {
+      "file": "assets/logos/britannia-horizontal-full-color.svg",
+      "bytes": 429186,
+      "sha256": "b58434a1789a9b85e4fd295cd4f7b1937c92c5ded0caf2686402c08d63209ae9"
+    },
+    {
+      "file": "assets/logos/britannia-horizontal-gold.svg",
+      "bytes": 214760,
+      "sha256": "3d47cfaaa99e7bcf850c0e8229a0384b1f9cf5983b7789679f049dfdc4701820"
+    },
+    {
+      "file": "assets/logos/britannia-horizontal-green.svg",
+      "bytes": 214762,
+      "sha256": "dc16d3bc67592eb09625aef87a6b004628fed7915745a1801c38e4dda6529e4b"
+    },
+    {
+      "file": "assets/logos/britannia-horizontal-ivory-ground.svg",
+      "bytes": 214619,
+      "sha256": "d1ab1a9fc0a88008567e4e63854afb07aef05bfc096cfaf246207d040541a363"
+    },
+    {
+      "file": "assets/logos/britannia-monogram-charcoal.svg",
+      "bytes": 14400,
+      "sha256": "7814e5085e55dbd4b27effe6cfba827cb7b44bc7b2d1c47b4c57b4a915cd8ab0"
+    },
+    {
+      "file": "assets/logos/britannia-monogram-full-color.svg",
+      "bytes": 28433,
+      "sha256": "e6ecefebe50eb6f9ecc15e8ddca8daaa3430414402dd5ab4afb5fc456bd091ba"
+    },
+    {
+      "file": "assets/logos/britannia-monogram-gold.svg",
+      "bytes": 14392,
+      "sha256": "759154cea0fe2376282c4436f21ab1d009eb7d7dafd83ac948b97212eb11cac9"
+    },
+    {
+      "file": "assets/logos/britannia-monogram-green.svg",
+      "bytes": 14394,
+      "sha256": "423173e4a5be749f6873066b1e64c9aefe0f9a60e4b51095b634b9efe2ac5823"
+    },
+    {
+      "file": "assets/logos/britannia-monogram-ivory-ground.svg",
+      "bytes": 14245,
+      "sha256": "fe40b072ef1fd4e5a4d069a1483ca244ac273e4ef5830efe1958996e73d9b50f"
+    },
+    {
+      "file": "assets/logos/britannia-monogram-ivory.svg",
+      "bytes": 14394,
+      "sha256": "1b07769258fb10a713d3ba82e70e50ff061d3979ad0c52d604093f27b5a02560"
+    },
+    {
+      "file": "assets/logos/britannia-primary-lockup-editable-text.svg",
+      "bytes": 295269,
+      "sha256": "776c63715b57634bfe304b9da63ba594ee5ecc0f69b68126f09bbe522a17bc01"
+    },
+    {
+      "file": "assets/logos/britannia-primary-lockup-full-color.svg",
+      "bytes": 429168,
+      "sha256": "ac363520b1b78d4939e7255dd58b9e60f87de16ca0372ea90a32d5a753f6687b"
+    },
+    {
+      "file": "assets/logos/britannia-primary-lockup-gold.svg",
+      "bytes": 214755,
+      "sha256": "7757720a7fb8e3cb5ab746add73bf07d85344e737b4768a00e29acd9154f3306"
+    },
+    {
+      "file": "assets/logos/britannia-primary-lockup-green.svg",
+      "bytes": 214757,
+      "sha256": "6e5011371540d4e0910626b9df4610f6a9a8b9ff1fee9e7ed3fb2adb03a4925c"
+    },
+    {
+      "file": "assets/logos/britannia-primary-lockup-ivory-ground.svg",
+      "bytes": 214614,
+      "sha256": "904c811e9503ec9d7f36c1d607542e3af2a5312405704cd78e89d2d1cbd40a40"
+    },
+    {
+      "file": "assets/logos/britannia-seal-charcoal.svg",
+      "bytes": 222910,
+      "sha256": "2b2557e94d5357683d8ff798a9caf84e3f0266640258f0e04a0a6838936845ee"
+    },
+    {
+      "file": "assets/logos/britannia-seal-editable-text.svg",
+      "bytes": 302922,
+      "sha256": "716ea92a54c7eecb0e33fea0f71529af4a19feae4e961f2c82f293b66f2321e6"
+    },
+    {
+      "file": "assets/logos/britannia-seal-full-color.svg",
+      "bytes": 445482,
+      "sha256": "e792e9c67ae5ba9b54f29598110fd5ff690aea6024c385d79e02458698da2de6"
+    },
+    {
+      "file": "assets/logos/britannia-seal-gold.svg",
+      "bytes": 222902,
+      "sha256": "92d65c868e39d6f366683d434d1512db75a7a7812690a61cf01f06ec9c4cf44c"
+    },
+    {
+      "file": "assets/logos/britannia-seal-green.svg",
+      "bytes": 222904,
+      "sha256": "3abdc4634a16a70aab4be698d3465677dcd61dcf08a3c0d77c2bbca75b5386ea"
+    },
+    {
+      "file": "assets/logos/britannia-seal-ivory-ground.svg",
+      "bytes": 222761,
+      "sha256": "8095824bd4728f80310ee3d929c19e72b7369e4a5880dd98d401e448f6827ee2"
+    },
+    {
+      "file": "assets/logos/britannia-seal-ivory.svg",
+      "bytes": 222904,
+      "sha256": "063083b3213481d385525b271af308cfcd8676108f846d429bb5adb1378311ab"
+    },
+    {
+      "file": "assets/logos/britannia-seal-tagline-editable-text.svg",
+      "bytes": 302922,
+      "sha256": "716ea92a54c7eecb0e33fea0f71529af4a19feae4e961f2c82f293b66f2321e6"
+    },
+    {
+      "file": "assets/logos/britannia-seal-tagline-full-color.svg",
+      "bytes": 445482,
+      "sha256": "e792e9c67ae5ba9b54f29598110fd5ff690aea6024c385d79e02458698da2de6"
+    },
+    {
+      "file": "assets/logos/britannia-seal-tagline-ivory-ground.svg",
+      "bytes": 222761,
+      "sha256": "8095824bd4728f80310ee3d929c19e72b7369e4a5880dd98d401e448f6827ee2"
+    },
+    {
+      "file": "assets/logos/britannia-secondary-lockup-editable-text.svg",
+      "bytes": 123468,
+      "sha256": "6064b8c49813a82330d52676fffdd55adbce11bc1fe64bd607f92e589dc1a387"
+    },
+    {
+      "file": "assets/logos/britannia-secondary-lockup-full-color.svg",
+      "bytes": 85553,
+      "sha256": "39301bc24e532efd574f41cb12f27225c8b57edfa5121209f5840fd4fca3f0f0"
+    },
+    {
+      "file": "assets/logos/britannia-secondary-lockup-gold.svg",
+      "bytes": 42954,
+      "sha256": "ca0cb4a6169fc03ffefd04e350f8db9eecb19f3a07e2ea0084ccaebe6a18751d"
+    },
+    {
+      "file": "assets/logos/britannia-secondary-lockup-green.svg",
+      "bytes": 42956,
+      "sha256": "aaf15b19dfd6cf6e7e1837a15dfa97d05c1fe5e3273d2ce6c523165112166dae"
+    },
+    {
+      "file": "assets/logos/britannia-secondary-lockup-ivory-ground.svg",
+      "bytes": 42813,
+      "sha256": "4a462352b876c048bc092d2fb874ff788c1db6715a7d361f55e823faa46ed1d1"
+    },
+    {
+      "file": "assets/palette/britannia-colors.json",
+      "bytes": 127,
+      "sha256": "7cacb95d924698c9e0ac3ebd4acdddc9aac03b18bdcfafe1d0630365c1cf499c"
+    },
+    {
+      "file": "assets/palette/britannia-palette.gpl",
+      "bytes": 156,
+      "sha256": "ee472dc5c097e5b4ee7a56da3ea287a8f288372d6aa4925e151486826ee3d8fe"
+    },
+    {
+      "file": "assets/palette/britannia-tokens.css",
+      "bytes": 322,
+      "sha256": "f6d7713c78db0bb05644458801704bb7d99b98c5537c7313c1c03df623068576"
+    },
+    {
+      "file": "assets/patterns/britannia-pattern-heritage.svg",
+      "bytes": 3166,
+      "sha256": "239b4550cf388472b6f16f12e284ee6debe97a9db98c28ef9c6749159847c756"
+    },
+    {
+      "file": "assets/patterns/britannia-pattern-woodland.svg",
+      "bytes": 28457,
+      "sha256": "da3f13cb8e6673a77a3b05865552b2ff60dadcf142a089f828c940982ce7042f"
+    },
+    {
+      "file": "assets/png/britannia-crest-full-color.png",
+      "bytes": 371633,
+      "sha256": "6e642e23be47682b97036d09093902a15db9f79d34122df0454ee400e5061b44"
+    },
+    {
+      "file": "assets/png/britannia-horizontal-full-color.png",
+      "bytes": 193906,
+      "sha256": "6436bf58ae70b96ef7cc4ba72498e80f1c8029281ea1f142d368bbc938037962"
+    },
+    {
+      "file": "assets/png/britannia-monogram-full-color.png",
+      "bytes": 192854,
+      "sha256": "1e00730d547c65068399de1deadadb610c7cf75dca3fd247fa3b90896bb8d1b8"
+    },
+    {
+      "file": "assets/png/britannia-primary-lockup-full-color.png",
+      "bytes": 316868,
+      "sha256": "e240be3df8d8c15e2baad0059811ba29100e8fdd888a36725a78d68ab4df4a0b"
+    },
+    {
+      "file": "assets/png/britannia-seal-tagline-full-color.png",
+      "bytes": 381667,
+      "sha256": "9990bc593ee4c85faf9d0a97353b7985b1fab6549eca7cc8cc100b57861f273f"
+    },
+    {
+      "file": "assets/png/britannia-secondary-lockup-full-color.png",
+      "bytes": 189534,
+      "sha256": "1b271f416144438383ccd28f29045ed5969e9f5978871a38e2b960d2d8b827e8"
+    },
+    {
+      "file": "assets/reference/britannia-approved-brand-board.png",
+      "bytes": 2955643,
+      "sha256": "88b894557294594c813d7e616ba920cf8c8b1c3d041a802c688b85a442986619"
+    },
+    {
+      "file": "assets/reference/britannia-approved-seal-detail.png",
+      "bytes": 501717,
+      "sha256": "9b219dc8cf9471adaf1e664103e1fc653afe250c48b5f4850de8eb2babc9fb7e"
+    },
+    {
+      "file": "assets/reference/britannia-crest-approved.png",
+      "bytes": 47274,
+      "sha256": "6cd4ed2b6c35af2f8214b89b79df6f5314f247a31d204a65a136e38d4251c810"
+    },
+    {
+      "file": "assets/reference/britannia-crown-approved.png",
+      "bytes": 6902,
+      "sha256": "42c021a32a6f780aab7361f27912c969d077bbca3856408345d84ee13e427b8a"
+    },
+    {
+      "file": "assets/reference/britannia-horizontal-mark-approved.png",
+      "bytes": 48776,
+      "sha256": "4052ae3ac5d5e04156695bf5112b4b1c17fb03bd8ee4585a71f690f4b3165c94"
+    },
+    {
+      "file": "assets/reference/britannia-parchment-texture.jpg",
+      "bytes": 8769,
+      "sha256": "8e35ed9a5aece965a50d5ff70e72d3a073f71ff65a6649faabca60cf49fee9b5"
+    },
+    {
+      "file": "assets/reference/britannia-primary-mark-approved.png",
+      "bytes": 90646,
+      "sha256": "4f85752efe1c7d76a1dcf17d135439a0d1ad81e2a749ad4d5c0517c9b03e6fb2"
+    },
+    {
+      "file": "assets/reference/britannia-secondary-mark-approved.png",
+      "bytes": 80355,
+      "sha256": "318db3094df95e102f4067002e640edb0859ef0a63c5e23f85ad349a574b19c4"
+    },
+    {
+      "file": "assets/reference/britannia-secondary-shield-approved.png",
+      "bytes": 33446,
+      "sha256": "46c4774d2a5668f24b963587b658a8e9bd7fd541597ebe974009848151268056"
+    },
+    {
+      "file": "assets/reference/britannia-tower-approved.png",
+      "bytes": 6486,
+      "sha256": "43d0b8254284a5982f7a3034fa97bfefb169acdb62fa5647804a8f1a797333ca"
+    },
+    {
+      "file": "assets/reference/britannia-tree-approved.png",
+      "bytes": 9614,
+      "sha256": "3faf81fe93f48a10dbe46cd2e197acfaca58203e83934355093afd6bc48e7ce6"
+    },
+    {
+      "file": "assets/textures/README.md",
+      "bytes": 1258,
+      "sha256": "ec015b4e8b829493eb71f34ddc26c27fe00b5ca24df6a26097a82373eecf6f4f"
+    },
+    {
+      "file": "assets/textures/britannia-natural-parchment.png",
+      "bytes": 2835847,
+      "sha256": "99a254507c85c76defd3e1737c6cb61ca5dd93146b3cfe2f93bf475405ebe1b3"
+    }
+  ]
+}

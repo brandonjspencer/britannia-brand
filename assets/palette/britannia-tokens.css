@@ -1,0 +1,10 @@
+:root {
+  --deep-green: #1B2B23;
+  --charcoal: #2E2E2E;
+  --antique-gold: #886F47;
+  --stone: #D9D1C4;
+  --ivory: #FBF6F1;
+  --font-display: 'Big Caslon', 'Adobe Caslon Pro', Caslon, 'Big Caslon', 'Adobe Caslon Pro', Caslon, Georgia, serif;
+  --font-body: Montserrat, Montserrat, Arial, sans-serif;
+  --space-unit: 8px;
+}

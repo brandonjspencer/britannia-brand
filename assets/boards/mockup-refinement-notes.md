@@ -1,0 +1,7 @@
+# Mockup refinement
+
+Edited with the built-in image-generation tool, retaining the 2172 × 724 native strip dimensions. The presentation board uses the separate vector logo masters; photography is illustrative application artwork.
+
+## Edit prompt
+
+Precise-object-edit of this existing 2172x724 three-panel photographic brand mockup strip. Preserve native resolution at least 2172x724, the identical framing, panel boundaries, camera, lighting, natural fine textures and crisp typography. Make ONLY these corrections: 1) Truck: remove the short gold horizontal dashes immediately to the left and right of CUSTOM BUILDERS, restoring clean green vehicle paint underneath. Retain vertical separator before service list and all text. 2) Plaque: remove both short bronze dashes flanking CUSTOM BUILDERS and remove the standalone short bronze underline below it, restoring the matching dark plaque metal. Correct perspective of crest and both wordmark lines so they lie on the plaque's actual flat plane, their horizontal axes following the plaque top/bottom perspective and vertical crest axis aligned to plaque sides. Keep pointed shield shape and all symbols intact, balanced optical centering on plaque. No extra decorative rules. 3) Entire wax panel remains exactly unchanged. Do not change logos, spelling, scene props, arrangement or color. No added noise, distressed cracks, smeared details, compression artifacts or painterly surfaces. Clean photographic fidelity. Return full three-panel strip.
